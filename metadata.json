@@ -1,0 +1,6 @@
+{
+  "name": "H&B Tamsui Team Lucky Draw System",
+  "description": "A high-tech, liquid glass style lucky draw system for the H&B Tamsui Team. Features include bulk/manual/generated participant lists, an exciting draw animation, winner history, and CSV export.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
